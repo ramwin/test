@@ -3,4 +3,4 @@
 
 lfs 图片
 
-[](./lfs.jpg)
+![](./lfs.jpg)
